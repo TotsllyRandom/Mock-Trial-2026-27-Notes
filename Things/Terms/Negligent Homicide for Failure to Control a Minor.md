@@ -30,3 +30,12 @@ Punishable by up to 10 years in prison and a fine of up to $100,000
 > 
 > The first element is undisputed. Only the second, third, and fourth elements are at issue at trial.
 
+
+>The following is a true and accurate excerpt from Texoma Penal Code: TPC Sec. 41 – Homicide
+>
+	**Sec. 41-4: Negligent Homicide for Failure to Control a Minor**
+>	A. A person is guilty of Negligent Homicide for Failure to Control a Minor if they 
+>		a. Have legal custody of a minor child; 
+>		b. Based on facts known to them, they reasonably should have known of the necessity of exercising sufficient control over the minor to prevent the child from intentionally harming others or acting in a way that creates a serious risk of bodily harm or death to others; and 
+>		c. That failure is a direct cause of the death of another person. 
+>	B. Negligent Homicide for Failure to Control a Minor is punishable by up to ten (10) years imprisonment and a fine of up to $100,000.
