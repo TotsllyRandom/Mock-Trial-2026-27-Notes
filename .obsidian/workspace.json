@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/General Summary.md",
+                "file": "Summaries/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Summary"
+              "title": "README"
             }
           }
         ]
@@ -212,7 +212,7 @@
   "lastOpenFiles": [
     "People/Maurice Whitacre.md",
     "November 25, 2025.md",
-    "Summaries/General Summary.md",
+    "Summaries/README.md",
     "January 1, 2013.md",
     "Dates/November 23, 2025.md",
     "People/Victim, Defendant, Families etc./Grady Quartz.md",
