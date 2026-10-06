@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/Summary of Dana Reyne's Statement.md",
+                "file": "Summaries/General Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary of Dana Reyne's Statement"
+              "title": "General Summary"
             }
           }
         ]
@@ -208,14 +208,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd5aae09e2373546",
+  "active": "77a8d8ae4b4ce54e",
   "lastOpenFiles": [
-    "Texoma Police Dept..md",
+    "September 18, 2025.md",
+    "Summaries/General Summary.md",
+    "December 26, 2025.md",
+    "December 25, 2025.md",
+    "Dates/January 1, 2013.md",
+    "Dates/November 23, 2025.md",
+    "People/Maurice Whitacre.md",
+    "shot down drone.md",
     "Summaries/Summary of Dana Reyne's Statement.md",
+    "People/Victim, Defendant, Families etc./Charlie Quartz.md",
+    "The Evidence Exhibits.md",
+    "People/Victim, Defendant, Families etc./Grady Quartz.md",
+    "People/Witnesses/Detective Dana Reyne.md",
+    "Texoma Police Dept..md",
     "Things/Places/State of Texoma.md",
     "People/Witnesses/The Witnesses.md",
-    "People/Witnesses/Detective Dana Reyne.md",
-    "Summaries/General Summary.md",
     "Things/Terms/Negligent Homicide for Failure to Control a Minor.md",
     "!Original Packet/Dixon Statement and Addendum.pdf",
     "!Original Packet/Ehd Statement and Addendum.pdf",
@@ -226,12 +236,7 @@
     "!Original Packet/Reyne Statement.pdf",
     "Things/Places/Quartz Property.md",
     "People/Victim, Defendant, Families etc./Julien Younger.md",
-    "People/Maurice Whitacre.md",
     "Dates/November 25, 2025.md",
-    "Dates/January 1, 2013.md",
-    "Dates/November 23, 2025.md",
-    "People/Victim, Defendant, Families etc./Grady Quartz.md",
-    "People/Victim, Defendant, Families etc./Charlie Quartz.md",
     "Dates",
     "Things/Terms",
     "!Original Packet/State v. Quartz - FINAL RELEASE (10.03).pdf",

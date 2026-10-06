@@ -3,6 +3,7 @@ aliases:
   - Mr. Quartz
   - The Defendant
   - Quartz
+  - Charlie
 tags:
   - Person
 ---
