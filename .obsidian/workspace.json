@@ -6,7 +6,6 @@
       {
         "id": "b2ddfccde3ec8f89",
         "type": "tabs",
-        "dimension": 58.78477306002928,
         "children": [
           {
             "id": "77a8d8ae4b4ce54e",
@@ -14,20 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summaries/General Summary.md",
+                "file": "Summaries/Summary of Dana Reyne's Statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Summary"
+              "title": "Summary of Dana Reyne's Statement"
             }
           }
         ]
       },
       {
-        "id": "a09ff0af646dd923",
+        "id": "1448acb75e043d23",
         "type": "tabs",
-        "dimension": 41.21522693997072,
         "children": [
           {
             "id": "e4a859cc772d717d",
@@ -210,23 +208,30 @@
   },
   "active": "77a8d8ae4b4ce54e",
   "lastOpenFiles": [
-    "September 18, 2025.md",
-    "Summaries/General Summary.md",
-    "December 26, 2025.md",
-    "December 25, 2025.md",
-    "Dates/January 1, 2013.md",
-    "Dates/November 23, 2025.md",
-    "People/Maurice Whitacre.md",
-    "shot down drone.md",
     "Summaries/Summary of Dana Reyne's Statement.md",
     "People/Victim, Defendant, Families etc./Charlie Quartz.md",
+    "Summaries/General Summary.md",
+    "Dates/December 25, 2025.md",
+    "Dates/September 18, 2025.md",
+    "July 1, 2010.md",
+    "People/Maurice Whitacre.md",
+    "paint balloon.md",
+    "Things/shot down drone.md",
+    "Exhibit 11.md",
+    "!Original Packet/Exhibit 11.pdf",
+    "Things/Places/State of Texoma.md",
+    "Things/Terms/Negligent Homicide for Failure to Control a Minor.md",
+    "a lockpicking kit.md",
+    "Things/Places/Quartz Property.md",
+    "People/Victim, Defendant, Families etc./Julien Younger.md",
+    "People/Witnesses/The Witnesses.md",
+    "Dates/December 26, 2025.md",
+    "People/Witnesses/Detective Dana Reyne.md",
+    "Dates/January 1, 2013.md",
+    "Dates/November 23, 2025.md",
     "The Evidence Exhibits.md",
     "People/Victim, Defendant, Families etc./Grady Quartz.md",
-    "People/Witnesses/Detective Dana Reyne.md",
     "Texoma Police Dept..md",
-    "Things/Places/State of Texoma.md",
-    "People/Witnesses/The Witnesses.md",
-    "Things/Terms/Negligent Homicide for Failure to Control a Minor.md",
     "!Original Packet/Dixon Statement and Addendum.pdf",
     "!Original Packet/Ehd Statement and Addendum.pdf",
     "!Original Packet/Quartz Statement and Addendum.pdf",
@@ -234,12 +239,9 @@
     "!Original Packet/Flynn Statement and Addendum.pdf",
     "!Original Packet/Reyne Statement and Addendum.pdf",
     "!Original Packet/Reyne Statement.pdf",
-    "Things/Places/Quartz Property.md",
-    "People/Victim, Defendant, Families etc./Julien Younger.md",
     "Dates/November 25, 2025.md",
     "Dates",
     "Things/Terms",
-    "!Original Packet/State v. Quartz - FINAL RELEASE (10.03).pdf",
     "Untitled 1.md"
   ]
 }

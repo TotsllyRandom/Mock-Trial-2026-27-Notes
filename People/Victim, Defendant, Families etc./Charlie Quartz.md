@@ -14,6 +14,8 @@ The defendant in the case.
 
 Convicted of [[Negligent Homicide for Failure to Control a Minor]] on [[November 23, 2025]]
 
+insomniac
+
 
 ## History
 ---

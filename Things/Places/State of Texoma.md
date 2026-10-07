@@ -2,6 +2,8 @@
 aliases:
   - Texoma Police Dept.
   - Texoma
+tags:
+  - Place
 ---
 ## General
 ---

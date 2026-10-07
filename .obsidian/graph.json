@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "tag:#Evidence  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -41,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.757372654155496,
+  "repelStrength": 15.3800545476106,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.49545885332857326,
+  "linkDistance": 119,
+  "scale": 1.360451564299182,
   "close": true
 }
