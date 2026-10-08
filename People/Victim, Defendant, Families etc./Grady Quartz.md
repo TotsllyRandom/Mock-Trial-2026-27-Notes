@@ -8,3 +8,4 @@ tags:
 ## General
 ---
 He is the son of [[Charlie Quartz]] and [[Morgan Snyder]].
+14 y.o. born in January
